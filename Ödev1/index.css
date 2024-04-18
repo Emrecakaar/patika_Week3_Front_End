@@ -1,0 +1,31 @@
+.jumbotron {
+    background-color:aqua; /* Arkaplan rengi */
+    padding: 50px; /* Jumbotron içeriği ile kenar arasındaki boşluk */
+    margin-bottom: 0; /* Diğer içeriklerle çakışmayı önlemek için alt boşluk */
+  }
+
+  .b-green {
+    color: green;
+  }
+  
+  .b-darkorchid{
+    color:darkorchid;
+  }
+
+  body {
+    background-color: #E9ECEF;
+  }
+
+  .card {
+    width: 18rem; 
+    
+  }
+  .card-img-top {
+    height: 200px; 
+    object-fit: cover; 
+  }
+  .price {
+    font-size: 1.25rem;
+    color: #007bff; 
+    margin-bottom: 0; 
+  }
